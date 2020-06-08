@@ -1,1 +1,1 @@
-# p9 minimalissimo
+# p9-minimalissimo
